@@ -1,5 +1,5 @@
 <div>
-  <img align="Center" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/banner-github.png">
+ <a href="https://github.com/Guilherme-Schwann/"><img align="Center" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/banner-github.png"></a>
 </div>
 
 # E aí, tudo bem? Eu sou o Guilherme! 👋 
