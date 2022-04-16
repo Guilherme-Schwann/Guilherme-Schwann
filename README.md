@@ -2,7 +2,7 @@
   <img align="Center" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/banner-github.png">
 </div>
 
-## E aí, tudo bem? Eu sou o Guilherme! 👋 
+# E aí, tudo bem? Eu sou o Guilherme! 👋 
  - 🎓️ Aluno do curso de Ciência da Computação da Universidade Feredal de Viçosa - Campus Florestal.
 
 <div align="Center">
