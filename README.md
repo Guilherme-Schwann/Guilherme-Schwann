@@ -13,7 +13,9 @@
 </div>
 
 <div>
-  
+  <a href="https://www.instagram.com/gui_augsw/" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Instagram.png"></a>
+  <a href="https://www.linkedin.com/in/gui-augsw/" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Linkedin.png"></a>
+  <a href="mailto:guilhermeawilke@hotmail.com" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Email.png"></a>
 </div>
 
 <!--
