@@ -2,7 +2,7 @@
   <img align="Center" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/banner-github.png">
 </div>
 
-## E aí, tudo bem? Eu sou o Guilherme!
+## E aí, tudo bem? Eu sou o Guilherme! 👋 
  - 🎓️ Aluno do curso de Ciência da Computação da Universidade Feredal de Viçosa - Campus Florestal.
 
 <div align="Center">
@@ -12,10 +12,11 @@
   </a>
 </div>
 
+### 🤝 Me contate:
 <div>
-  <a href="https://www.instagram.com/gui_augsw/" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Instagram.png"></a>
-  <a href="https://www.linkedin.com/in/gui-augsw/" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Linkedin.png"></a>
-  <a href="mailto:guilhermeawilke@hotmail.com" target="_blank"><img height="40em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Email.png"></a>
+  <a href="https://www.instagram.com/gui_augsw/" target="_blank"><img align="left" height="30em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Instagram.png"></a>
+  <a href="https://www.linkedin.com/in/gui-augsw/" target="_blank"><img align="left" height="30em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Linkedin.png"></a>
+  <a href="mailto:guilhermeawilke@hotmail.com" target="_blank"><img align="left" height="30em" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/Email.png"></a>
 </div>
 
 <!--
