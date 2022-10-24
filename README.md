@@ -19,6 +19,9 @@
 ## 🔬 Aprendendo:
 - Solidity;
 - JavaScript;
+- Java;
+- MySQL;
+- C++;
 
 ### 🤝 Me contate:
 
