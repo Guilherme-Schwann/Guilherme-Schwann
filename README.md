@@ -8,12 +8,12 @@
 ## 🔧 Habilidades:
 - Python;
 - C;
+- MySQL;
+- Java;
 
 ## 🔬 Aprendendo:
 - Solidity;
 - JavaScript;
-- Java;
-- MySQL;
 - C++;
 
 ### 🤝 Me contate:
