@@ -5,13 +5,6 @@
 # E aí, tudo bem? Eu sou o Guilherme! 👋 
  - 🎓️ Aluno do curso de Ciência da Computação da Universidade Feredal de Viçosa - Campus Florestal.
 
-<div align="Center">
-<a href="https://github.com/Guilherme-Schwann">
-<img align="Center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Schwann&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
-<img align="Center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Schwann&theme=dark&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117">
-  </a>
-</div>
-
 ## 🔧 Habilidades:
 - Python;
 - C;
