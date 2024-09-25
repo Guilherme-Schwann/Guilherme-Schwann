@@ -1,6 +1,4 @@
-<div>
- <a href="https://github.com/Guilherme-Schwann/"><img align="Center" src="https://github.com/Guilherme-Schwann/Guilherme-Schwann/blob/main/images/banner-github.png"></a>
-</div>
+
 
 # E aí, tudo bem? Eu sou o Guilherme! 👋 
  - 🎓️ Aluno do curso de Ciência da Computação da Universidade Feredal de Viçosa - Campus Florestal.
@@ -10,12 +8,10 @@
 - C;
 - MySQL;
 - Java;
-
-## 🔬 Aprendendo:
-- Solidity;
+- PHP;
 - JavaScript;
-- C++;
-
+- Verilog;
+  
 ### 🤝 Me contate:
 
 <!--
